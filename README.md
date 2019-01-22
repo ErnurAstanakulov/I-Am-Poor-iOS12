@@ -16,4 +16,4 @@ Now that you have been rich, it’s time to join the 99%. This app will proudly 
 ![End Banner](Documentation/readme-end-banner.png)
 
 ## Author 
-Just Testing
+Just Testing for myself
